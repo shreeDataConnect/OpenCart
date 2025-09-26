@@ -1,0 +1,365 @@
+18:46:31.743 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+18:46:34.526 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+18:46:35.005 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+18:46:35.387 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+18:46:35.387 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+18:46:40.062 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+18:46:40.093 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - *** TC001_AccountRegistrationTest finished ***
+18:53:53.226 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+18:53:53.440 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+18:53:56.378 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+18:53:56.917 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+18:53:57.372 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+18:53:57.376 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+18:54:02.059 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+18:54:02.100 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - *** TC001_AccountRegistrationTest finished ***
+18:55:44.502 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+18:55:44.729 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+18:55:47.488 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+18:55:47.986 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+18:55:48.399 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+18:55:48.403 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+18:55:53.049 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:00:55.935 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+19:00:58.424 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+19:00:58.852 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+19:00:59.222 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+19:00:59.224 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+19:01:03.966 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:13:27.474 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+19:13:27.700 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+19:13:31.192 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+19:13:31.376 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+19:13:31.931 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+19:13:31.934 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+19:13:36.505 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:14:07.339 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+19:14:07.549 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+19:14:11.861 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+19:14:12.029 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+19:14:13.115 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+19:14:13.121 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+19:14:17.774 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:54:00.471 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+19:54:00.693 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+19:54:05.100 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+19:54:05.796 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+19:54:06.313 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+19:54:06.313 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+19:54:11.292 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:54:11.324 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+19:54:11.324 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+19:56:31.086 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+19:56:31.325 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+19:56:35.052 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+19:56:35.244 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+19:56:35.929 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+19:56:35.929 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+19:56:39.758 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+19:56:39.790 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+19:56:39.790 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:00:57.587 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:00:57.816 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:01:01.271 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:01:01.710 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:01:02.104 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:01:02.104 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:01:06.734 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:01:06.765 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+20:01:06.765 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:01:06.765 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - *** TC001_AccountRegistrationTest finished ***
+20:02:17.413 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:02:17.674 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:02:25.265 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:02:25.437 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:02:26.461 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:02:26.466 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:02:30.918 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:02:30.950 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+20:02:30.950 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:02:30.950 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - *** TC001_AccountRegistrationTest finished ***
+20:03:20.497 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:03:20.764 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:03:23.722 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:03:24.170 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:03:24.555 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:03:24.555 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:03:29.206 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:03:29.269 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+20:03:29.269 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:05:22.963 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:05:23.343 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:05:30.484 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:05:30.673 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:05:33.195 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:05:33.205 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:05:37.725 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:05:37.790 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - *** TC001_AccountRegistrationTest finished ***
+20:07:44.260 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:07:44.527 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:07:47.331 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:07:47.865 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:07:48.316 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:07:48.326 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:07:53.058 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:07:53.090 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+20:07:53.090 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:08:34.354 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:08:34.612 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:08:37.478 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:08:37.948 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:08:38.308 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:08:38.308 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:08:43.028 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:08:43.060 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:66)oggger - *** TC001_AccountRegistrationTest finished ***
+20:09:36.920 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:09:37.187 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:09:40.136 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:09:40.677 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:09:41.156 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:09:41.164 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:09:45.853 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+20:09:45.889 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+20:09:45.889 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+20:19:24.831 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:19:25.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:19:28.525 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:19:28.734 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:19:30.480 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:19:30.485 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:27:21.008 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:27:21.456 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:27:25.539 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:27:26.148 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:27:26.664 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:27:26.669 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:30:54.185 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:30:54.734 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:30:59.456 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:31:00.052 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:31:00.676 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:31:00.687 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:31:19.353 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:31:19.866 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:31:24.044 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:31:24.633 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:31:25.179 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:31:25.179 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:31:53.127 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:31:53.688 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:31:57.912 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:31:58.439 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:31:59.373 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:31:59.381 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+20:33:25.443 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+20:33:25.942 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+20:33:30.021 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+20:33:30.645 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+20:33:31.194 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+20:33:31.197 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+14:23:00.678 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+14:23:01.088 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+14:23:02.396 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+14:23:02.686 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+14:23:09.132 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+14:23:09.146 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+14:23:09.829 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+14:23:09.916 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+14:23:10.556 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+14:23:10.561 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+14:23:10.603 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+14:23:10.603 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+14:23:15.633 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+14:23:15.708 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+14:23:15.710 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+14:23:15.903 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+14:23:15.994 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+14:23:15.996 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+14:23:41.919 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+14:23:42.130 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+14:23:46.294 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+14:23:46.845 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+14:23:47.256 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+14:23:47.258 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+14:23:51.717 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+14:23:51.749 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+14:23:51.749 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+15:50:43.358 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+15:50:43.612 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+15:50:48.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+15:50:49.251 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+15:50:49.731 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+15:50:49.734 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+15:50:54.256 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+15:50:54.319 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+15:50:54.319 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+15:53:59.149 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+15:53:59.375 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+15:54:03.180 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+15:54:03.761 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+15:54:04.202 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+15:54:04.210 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+15:54:08.728 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+15:54:08.760 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:54)oggger - Test failed...
+15:54:08.760 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:55)oggger - Debug logs...
+15:56:12.867 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+15:56:13.092 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+15:56:32.840 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+15:56:33.084 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+15:56:36.644 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+15:56:37.198 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+15:56:37.589 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+15:56:37.597 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+15:56:42.309 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+15:56:42.340 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:00:01.951 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml"
+16:00:02.173 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+16:00:19.981 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:00:20.200 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:00:23.115 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:00:23.658 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:00:24.024 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:00:24.024 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:00:28.610 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:00:28.642 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:03:04.124 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:03:04.456 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:03:14.346 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:03:14.512 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:03:15.123 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:03:15.139 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:03:19.388 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:03:19.412 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:04:23.523 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:04:23.753 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:04:27.288 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:04:27.450 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:04:27.790 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:04:27.790 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:04:32.417 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:04:32.448 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:05:42.021 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:05:42.227 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:05:44.788 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:05:44.965 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:05:45.304 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:05:45.307 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:05:49.934 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:05:49.966 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:21:04.957 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:21:19.016 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:21:48.688 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:21:48.962 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:21:51.914 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:21:52.068 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:21:52.453 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:21:52.457 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:21:56.997 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:21:57.041 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:22:00.062 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:22:00.228 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:22:00.592 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:22:00.592 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:22:05.182 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:22:05.213 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:22:11.127 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:22:11.312 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:22:11.963 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:22:11.963 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:22:16.310 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:22:16.347 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:38:50.047 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+16:38:50.322 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+16:38:56.004 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:38:56.444 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:38:57.314 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:38:57.321 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:38:57.508 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:38:58.442 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:39:00.320 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:39:00.330 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:39:05.582 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:39:05.827 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:39:07.392 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
+16:39:07.688 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:30)oggger - Clicked on My Account link
+16:39:08.004 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:39:08.147 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+16:39:08.390 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on Register link
+16:39:08.392 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:34)oggger - Providing customer details..
+16:39:12.710 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:46)oggger - Validated expecting message..
+16:39:12.722 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:68)oggger - *** TC001_AccountRegistrationTest finished ***
+17:26:04.384 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\FrameWork\OpenCart\master.xml"
+17:26:04.728 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\FrameWork\OpenCart\master.xml
+
+17:26:08.931 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:25)oggger - *** TC001_AccountRegistrationTest ***
